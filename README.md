@@ -151,4 +151,4 @@ python脚本在`chaoxing/cx.py`文件中，其中第12—34行为配置区域，
 [5]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/1888532943.jpg
 [6]:https://cdn.jsdelivr.net/gh/closty/tuchuang/usr/uploads/2020/04/3351341396.jpg
 
-随便添加点什么
+随便添加点
